@@ -27,7 +27,10 @@
             <router-link  class="nav-link" to="contact">Contact</router-link>
           </li> -->
           <li class="nav-item">
-            <router-link  class="nav-link" to="products">Covid Latest data</router-link>
+            <router-link  class="nav-link" to="covid">Covid Latest data</router-link>
+          </li>
+          <li class="nav-item">
+            <router-link  class="nav-link" to="products">Products</router-link>
           </li>
           <!-- <li class="nav-item">
             <router-link  class="nav-link" to="login">Login</router-link>
